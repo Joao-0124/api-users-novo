@@ -7,11 +7,11 @@
 - FK Instituição
 - Nome -> String
 - FK Cargo -> String
-- Telefone -> String
+- CPF -> String
 - Data de Nascimento - TimeStamp
 - Email -> String
 - Senha -> Number
-- 
+- Telefone -> String
 - 
 
 ### CRUD PJ
